@@ -1,2 +1,2 @@
 # logo
-logo for decric
+logo for decric.
