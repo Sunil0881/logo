@@ -1,2 +1,2 @@
 # logo
-logo for decric application
+logo for decric application.
